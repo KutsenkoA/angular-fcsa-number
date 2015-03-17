@@ -1,3 +1,3 @@
 # This is fork of FCSA Number
 
-Fix a "value as string" validation problem.
+Fix a problem that set a validation error with prepend or append symbols.
